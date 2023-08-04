@@ -22,7 +22,7 @@ User-Friendly Search: Enter your city or location to quickly find weather update
 Mobile Responsive: Enjoy the same great experience on your mobile devices.
 
 Installation
-To access WeatherMaster, simply visit mikekane007.github.io in your web browser. There is no need for any installation or additional downloads.
+To access WeatherApp, simply visit mikekane007.github.io in your web browser. There is no need for any installation or additional downloads.
 
 Usage
 Open your web browser and navigate to mikekane007.github.io
